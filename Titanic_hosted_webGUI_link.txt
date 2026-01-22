@@ -2,5 +2,5 @@ Name: Onileowo Taiwo
 Matric Number: 23CG034136
 Machine Learning Algorithm Used: Random Forest Classifier
 Model Persistence Method Used: Joblib
-Live URL: [Your deployed app URL]
-GitHub Repository: [Your GitHub repo URL]
+Live URL: https://titanic-project-onileowotaiwo-23cg034136.onrender.com
+GitHub Repository: https://github.com/TaiwoOnileowo/Titanic_Project_OnileowoTaiwo_23CG034136
