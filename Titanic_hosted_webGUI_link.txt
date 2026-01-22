@@ -1,0 +1,6 @@
+Name: Onileowo Taiwo
+Matric Number: 23CG034136
+Machine Learning Algorithm Used: Random Forest Classifier
+Model Persistence Method Used: Joblib
+Live URL: [Your deployed app URL]
+GitHub Repository: [Your GitHub repo URL]
